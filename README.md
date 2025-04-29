@@ -1,5 +1,10 @@
 # ResepKita App
 
+| Nama           | NRP        | Kelas     |
+| ---            | ---        | ----------|
+| Decya Giovanni | 5025221027 | Pemrograman Perangkat Bergerak (G) |
+| Bryant Nathaniel T. | 5025221175 | Pemrograman Perangkat Bergerak (G) |
+
 **ResepKita** adalah aplikasi mobile yang dirancang untuk menampilkan berbagai resep masakan, lengkap dengan gambar, daftar bahan, dan langkah-langkah memasak. Aplikasi ini bertujuan untuk membantu pengguna menemukan inspirasi memasak dengan mudah dan cepat.
 
 ## ✨ Fitur Utama
