@@ -1,4 +1,4 @@
-# ResepKita App
+# Aplikasi ResepKita
 
 | Nama           | NRP        | Kelas     |
 | ---            | ---        | ----------|
